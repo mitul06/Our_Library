@@ -1,0 +1,36 @@
+body{
+    background: url(../img/bookshelf-413705_1280.jpg) fixed;
+}
+
+#addbook{
+    background-color: #ffbd9c;
+    height: auto;
+    border: 2px solid #ff5500;
+    border-radius: 1.25rem;
+}
+
+#bookName, #author{
+    border: 2px solid orange;
+    border-radius: 0.7rem;
+}
+
+hr{
+    border-top: 1px solid #ff5500;
+}
+
+#addBookBtn{
+    border-radius: 0.7rem;
+    border: 1px solid #4f61ff;
+    background-color: #222a70;
+}
+
+.table{
+    text-align: center;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+h2{
+    text-align: center;
+    color: #222a70;
+}
